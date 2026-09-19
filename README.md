@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Navya 👋
 
-<!--
-**7410navya/7410navya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring SOC Analyst
 
-Here are some ideas to get you started:
+I am a Cyber Security student building hands-on skills in Security Operations and Blue Team cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+
+- SOC Monitoring
+- Wazuh SIEM
+- Windows Security Events
+- Threat Hunting
+- Log Analysis
+- Incident Response
+- IOC Investigation
+- MITRE ATT&CK
+- Network Security
+
+### Featured Project
+
+**Windows SOC Monitoring & Threat Detection Lab**
+
+A hands-on Wazuh home lab focused on Windows security monitoring, event investigation, alert triage, threat hunting, and incident documentation.
+
+[View Project](https://github.com/7410navya/wazuh-soc-monitoring-lab)
+
+### Tools
+
+Wazuh | Windows | Linux | PowerShell | Wireshark | VirtualBox
+
+### Career Goal
+
+Seeking entry-level SOC Analyst, Blue Team, and Cybersecurity Internship opportunities.
